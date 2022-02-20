@@ -1,5 +1,16 @@
 </hr>
 
+# Feb.20.2022
+
+- [프림 알고리즘(Prim)](./src/2022020Prim.md)
+
+- [크루스칼 알고리즘(Kruskal)](./src/2022020Kruskal.md)
+
+- [다익스트라 알고리즘(Dijkstra)](./src/2022020Dijkstra.md)
+
+
+</hr>
+
 # Feb.19.2022
 
 - [최소 신장 트리(MST)](./src/20220219MST.md)
