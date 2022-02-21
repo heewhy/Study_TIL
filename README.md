@@ -2,6 +2,14 @@
 
 # Feb.20.2022
 
+- [깊이 우선 탐색(Depth First Search)](./src/2022021DFS.md)
+
+- [너비 우선 탐색(Breadth First Search)](./src/2022021BFS.md)
+
+</hr>
+
+# Feb.20.2022
+
 - [프림 알고리즘(Prim)](./src/2022020Prim.md)
 
 - [크루스칼 알고리즘(Kruskal)](./src/2022020Kruskal.md)
