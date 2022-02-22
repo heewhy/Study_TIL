@@ -1,6 +1,16 @@
 </hr>
 
-# Feb.20.2022
+# Feb.22.2022
+
+- [Rabin-Karp(라빈-카프)](./src/20220222Rabin-Karp.md)
+
+- [Boyer-Moore(보이어 무어)](./src/20220222Boyear-Moore.md)
+
+- [Knuth-Morris-Pratt(KMP)](./src/20220222KMP.md)
+
+</hr>
+
+# Feb.21.2022
 
 - [깊이 우선 탐색(Depth First Search)](./src/2022021DFS.md)
 
